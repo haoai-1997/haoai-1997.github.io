@@ -161,7 +161,7 @@
              Overview of our HRDFuse, consisting of three parts: feature extractors for both ERP and TP inputs, spatial feature alignment (SFA) module, 
              and collaborative depth distribution classification (CDDC) module. 
 		      <br>
-	     As depicted in the framework figure , to exploit the complementary information from holistic context and regional structure, our framework simultaneously takes two projections of a 360&deg; image, an ERP image and <i>N<\i> TP patches, as inputs. For the ERP branch, an ERP image with the resolution of <i>H x W<\i> is fed into a feature extractor, comprised of an encoder-decoder block, to produce a decoded ERP feature map <b>F<sup>ERP</sup></b>. For the TP branch, <i>N</i> TP patches are first obtained with gnomonic projection from the same sphere. Then, these TP patches are passed through the TP feature extractor to obtain 1-D patch feature vectors {V<sub>n</sub>, n=1,..., N}, which are passed through the TP decoder to obtain the TP feature maps {<b>F<sub>n<\sub><sup>TP</sup></b>}. 
+	     As depicted in the framework figure, to exploit the complementary information from holistic context and regional structure, our framework simultaneously takes two projections of a 360&deg; image, an ERP image and <i>N</i> TP patches, as inputs. For the ERP branch, an ERP image with the resolution of <i>H x W</i> is fed into a feature extractor, comprised of an encoder-decoder block, to produce a decoded ERP feature map <b>F<sup>ERP</sup></b>. For the TP branch, <i>N</i> TP patches are first obtained with gnomonic projection from the same sphere. Then, these TP patches are passed through the TP feature extractor to obtain 1-D patch feature vectors {V<sub>n</sub>, n=1,..., N}, which are passed through the TP decoder to obtain the TP feature maps {<b>F<sub>n</sub><sup>TP</sup></b>}. 
 
 To determine and align the spatial location of each TP patch in the ERP space and avoid complex geometric fusion for overlapping areas between neighboring TP patches, we propose the spatial feature alignment (SFA) module to learn feature correspondences between pixel vectors in the ERP feature map <b>F<sup>ERP</sup></b> and patch feature vectors {V<sub>n</sub>, n=1,..., N}. This way, we can obtain the spatially aligned index map <b>M<\b>, recording the location of each patch in the ERP space.
 
@@ -177,41 +177,30 @@ Next, the index map <b>M<\b>, ERP feature map <b>F<sup>ERP</sup></b>, and TP fea
          <div class="row">
           <div class="col-md-8 col-md-offset-2">
                 <h3>
-                    More Results 
+                    Results on Real Data
                 </h3>   
             
-          <img src="./real_edit.jpg" class="img-responsive" alt="method" class="center"><br>
+          <img src="./real_data.jpg" class="img-responsive" alt="real" class="center"><br>
            
           </div>
-        </div>     
-    
-    
-        <!-- ##### BibTex #####-->
-        <hr>
-        <div class="row">
-            <div class="col-md-8 col-md-offset-2">
-                <h3>
-                    BibTeX
-                </h3>
- 
-                <div class="row align-items-center">
-                    <div class="col py-3">
-                        <pre class="border">             
-@inproceedings{wang2021HFGI,
-  title={High-Fidelity GAN Inversion for Image Attribute Editing},
-  author={Wang, Tengfei and Zhang, Yong and Fan, Yanbo and Wang, Jue and Chen, Qifeng},
-  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year={2022}
-}
-</pre>
-                    </div>
-                </div>
-              
-    
-          </div>
-          
         </div>
+		      
+    	<div class="row">      
+     <div class="col-md-8 col-md-offset-2">
+          <h3>
+              Demo with Our HRDFuse
+          </h3>   
+    </div>   
+      
+    <table width="90%" style="margin: 15pt auto; text-align: center;">      
 
+            <video width="800"  controls >
+                <source src="./video_editing/1.mp4" type="video/mp4">
+              Your browser does not support HTML video.
+            </video>   
+    </table>          
+      </div>
+   
     </div>
 </body>
 </html>
