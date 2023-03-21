@@ -86,7 +86,7 @@
                     <ul class="nav nav-pills nav-justified">
                         <li>
                             <a href="https://arxiv.org/abs/2109.06590">
-                            <img src="./paper.jpg" height="100px"><br>
+                            <img src="./paper.png" height="100px"><br>
                                 <h4><strong>Paper</strong></h4>
                             </a>
                         </li>
@@ -128,24 +128,11 @@
         <!-- ##### Abstract #####-->
         <div class="row">
             <div class="col-md-8 col-md-offset-2">
-<!--                 It seems that arxiv fails to properly compile the pdf file, so I put the pdf file in the repo as a remedy:( -->
-              
-                Want to play with your photos without cloning the code? Try our <a href="https://replicate.com/tengfei-wang/hfgi"> ONLINE DEMO </a> for fun!
                 <h3>
                     Abstract
                 </h3>
                 <p class="text-justify">
-               We present a novel high-fidelity generative adversarial network (GAN) inversion framework that enables attribute editing with
-                  image-specific details well-preserved (e.g., background, appearance, and illumination). We first analyze the challenges of
-                  high-fidelity GAN inversion from the perspective of lossy data compression.  With a low bit-rate latent code, previous works
-                  have difficulties in preserving high-fidelity details in reconstructed and edited images. Increasing the size of a latent 
-                  code can improve the accuracy of GAN inversion but at the cost of inferior editability. To improve image fidelity without 
-                  compromising editability, we propose a distortion consultation approach that employs a distortion map as a reference for  
-                  high-fidelity reconstruction. In the distortion consultation inversion (DCI), the distortion map is first projected to a 
-                  high-rate latent map, which then complements the basic low-rate latent code with more details via consultation fusion. 
-                  To achieve high-fidelity editing, we propose an adaptive distortion alignment (ADA) module with a self-supervised training scheme,
-                  which bridges the gap between the edited and inversion images. Extensive experiments in the face and car domains show a clear
-                  improvement in both inversion and editing quality. 
+               Depth estimation from a monocular 360&deg; image is a burgeoning problem owing to its holistic sensing of a scene. Recently, some methods, \eg, OmniFusion, have applied the tangent projection (TP) to represent a 360&deg; image and predicted depth values via patch-wise regressions, which are merged to get a depth map with equirectangular projection (ERP) format. However, these methods suffer from 1) non-trivial process of merging plenty of patches; 2) capturing less holistic-with-regional contextual information by directly regressing the depth value of each pixel. In this paper, we propose a novel framework, <b>HRDFuse</b>, that subtly combines the potential of convolutional neural networks (CNNs) and transformers by collaboratively learning the <i>holistic</i> contextual information from the ERP and the <i>regional</i> structural information from the TP.  Firstly, we propose a spatial feature alignment (<b>SFA</b>) module that learns feature similarities between the TP and ERP to aggregate the TP features into a complete ERP feature map in a pixel-wise manner. Secondly, we propose a collaborative depth distribution classification (<b>CDDC</b>) module that learns the <b>holistic-with-regional</b> histograms capturing the ERP and TP depth distributions. As such, the final depth values can be predicted as a linear combination of histogram bin centers. Lastly, we adaptively combine the depth predictions from ERP and TP to obtain the final depth map. Extensive experiments show that our method predicts <b>more smooth and accurate depth</b> results while achieving <b>favorably better</b> results than the SOTA methods.
                 </p>
             </div>
         </div>
