@@ -21,9 +21,9 @@ repository               : ""
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : "he/him"# example: "she/her"  
+  avatar           : "../assets/Shaq_dunk_over_Dikembe_Mutombo"
+  name             : "(Conley) Hao Ai"
+  pronouns         : "he/him"
   bio              : "Cheerful optimist and big ol' guy"
   location         : "Birmingham, UK"
   employer         : "University of Birmingham"
