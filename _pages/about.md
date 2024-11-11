@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "**He who dares, wins**"
+title: "***He who dares, wins***"
 author_profile: true
 redirect_from: 
   - /about/
