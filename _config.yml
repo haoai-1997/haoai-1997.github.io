@@ -21,7 +21,7 @@ repository               : ""
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "../assets/Shaq_dunk_over_Dikembe_Mutombo"
+  avatar           : "../assets/fierce_shark_slam_dunk.png"
   name             : "(Conley) Hao Ai"
   pronouns         : "he/him"
   bio              : "Cheerful optimist and big ol' guy"
