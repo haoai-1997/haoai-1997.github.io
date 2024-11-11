@@ -18,6 +18,7 @@ Working Experience
 
 &nbsp;  &nbsp; * Research Intern,  Tencent ARCLab, Shenzhen, China, May 2022- February 2023
 
-
-<video src="../assets/Shaquille_O_Neal_Dunk.mp4"></video>
+<video width="640" height="480" controls>
+    <source src="../assets/Shaquille_O_Neal_Dunk.mp4" type="video/mp4" preload="auto">
+</video>
 
