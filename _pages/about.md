@@ -12,6 +12,8 @@ Hao Ai (*艾浩, Conley*) is a first-year PhD candidate in the School of Compute
 I earned my B.Sc. from Beijing Jiaotong University, followed by collaboration with Prof. [Qingmin Liao](https://www.sigs.tsinghua.edu.cn/lqm_en/main.htm) on my M.Sc. in Image Signal Processing at Tsinghua University.
 You can find my CV here: [Hao's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-Experience
-=============
+Working Experience
+======
+&nbsp;  &nbsp; * Research Intern,  Ping An Technology, Shenzhen, China, March 2020- January 2021
 
+&nbsp;  &nbsp; * Research Intern,  Tencent ARCLab, Shenzhen, China, May 2022- February 2023
