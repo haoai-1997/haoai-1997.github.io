@@ -22,7 +22,7 @@
 	<style>
 		.video-grid {
 		  display: grid;
-		  grid-template-columns: repeat(4, 1fr);
+		  grid-template-columns: repeat(2, 1fr);
 		  gap: 12px;
 		  margin-top: 15px;
 		}
@@ -33,12 +33,6 @@
 		  display: block;
 		  background: #000;
 		  border-radius: 6px;
-		}
-		
-		@media (max-width: 992px) {
-		  .video-grid {
-		    grid-template-columns: repeat(2, 1fr);
-		  }
 		}
 		
 		@media (max-width: 576px) {
@@ -158,44 +152,27 @@
      <div class="row">     
   <div class="col-md-8 col-md-offset-2">
       <h3>
-          Visual Resutls
+          Visual Segmentation Results
       </h3>
       <img src="./images/visual_results.jpg" class="img-responsive" alt="vis_res"><br>
-
+      <h3>
+          Rendering Results of Two-part Objects<br>
+		  (Left: GT; Middle: Our RGB results; Right: Our segmentation results)
+      </h3>
       <div class="video-grid">
-        <video controls>
-          <source src="./video/video1.mp4" type="video/mp4">
-          Your browser does not support HTML5 video.
-        </video>
-        <video controls>
-          <source src="./video/video2.mp4" type="video/mp4">
-          Your browser does not support HTML5 video.
-        </video>
-        <video controls>
-          <source src="./video/video3.mp4" type="video/mp4">
-          Your browser does not support HTML5 video.
-        </video>
-        <video controls>
-          <source src="./video/video4.mp4" type="video/mp4">
-          Your browser does not support HTML5 video.
-        </video>
-        <video controls>
-          <source src="./video/video5.mp4" type="video/mp4">
-          Your browser does not support HTML5 video.
-        </video>
-        <video controls>
-          <source src="./video/video6.mp4" type="video/mp4">
-          Your browser does not support HTML5 video.
-        </video>
-        <video controls>
-          <source src="./video/video7.mp4" type="video/mp4">
-          Your browser does not support HTML5 video.
-        </video>
-        <video controls>
-          <source src="./video/video8.mp4" type="video/mp4">
-          Your browser does not support HTML5 video.
-        </video>
-      </div>
+		  <video controls>
+		    <source src="./video/video1.mp4" type="video/mp4">
+		  </video>
+		  <video controls>
+		    <source src="./video/video2.mp4" type="video/mp4">
+		  </video>
+		  <video controls>
+		    <source src="./video/video3.mp4" type="video/mp4">
+		  </video>
+		  <video controls>
+		    <source src="./video/video4.mp4" type="video/mp4">
+		  </video>
+	  </div>
       <br>
   </div>     
 </div>
