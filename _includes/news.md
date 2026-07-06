@@ -3,8 +3,10 @@
 - **2025.06**: [PanDA](https://openaccess.thecvf.com/content/CVPR2025/papers/Cao_PanDA_Towards_Panoramic_Depth_Anything_with_Unlabeled_Panoramas_and_Mobius_CVPR_2025_paper.pdf) was accepted to **CVPR 2025**. Congrats to the co-authors!
 - **2025.06**: [CUBE360](https://dblp.org/rec/journals/ral/ChangAZW25) was accepted to **IEEE Robotics and Automation Letters (RA-L)**. Congrats to [Wenjie](https://scholar.google.com/citations?user=VbY0304AAAAJ&hl=en)!
 - **2025.04**: Our survey paper, [A Survey of Representation Learning, Optimization Strategies, and Applications for Omnidirectional Vision](https://link.springer.com/article/10.1007/s11263-025-02391-w) (*First author*), was accepted to **IJCV**.
+- **2024.09**: ***I continued my Ph.D. journey at the University of Birmingham with a school scholarship, working with Prof. Aleš Leonardis, Prof. Jianbo Jiao, and Prof. Eyal Ofek.***
 - **2024.08**: We released [Elite360M](https://arxiv.org/abs/2408.09336) (*First author*), an efficient 360° multi-task learning framework.
 - **2024.06**: [Elite360D](https://openaccess.thecvf.com/content/CVPR2024/html/Ai_Elite360D_Towards_Efficient_360_Depth_Estimation_via_Semantic-_and_Distance-Aware_CVPR_2024_paper.html) (*First author*) was accepted to **CVPR 2024**.
 - **2024.03**: [Dream360](https://arxiv.org/abs/2401.10564) (*First author*) was accepted to **IEEE TVCG**.
 - **2023.10**: [OmniZoomer](https://arxiv.org/abs/2308.08114) was accepted to **ICCV 2023**. Congrats to [Zidong](https://caozidong.github.io/)!
 - **2023.06**: [HRDFuse](https://openaccess.thecvf.com/content/CVPR2023/html/Ai_HRDFuse_Monocular_360deg_Depth_Estimation_by_Collaboratively_Learning_Holistic-With-Regional_Depth_CVPR_2023_paper.html) (*First author*) was accepted to **CVPR 2023**.
+- **2023.04**: ***I joined the VLIS Lab at HKUST(GZ) as a Ph.D. student with the school scholarship and worked with Prof. Addison Lin Wang. I am grateful for his guidance and support.***
