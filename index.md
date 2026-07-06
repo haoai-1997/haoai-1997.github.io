@@ -199,7 +199,7 @@ During my current PhD study at the University of Birmingham, I focus more on hum
 
 <div class="service-card" markdown="1">
 
-If you are interested at my research field, please feel free to contact me. Welcome collaboration!
+If you are interested at my research field, please feel free to contact me. **Any discussion and collaboration are welcome.**
 </div>
 
 ### Academic Services
