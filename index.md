@@ -26,7 +26,7 @@ I completed my master's degree under the supervision of [Prof. Qingmin Liao](htt
   <div class="experience-grid">
      <div class="experience-item">
       <img src="./assets/logo/Beijing_Jiaotong_University.png" alt="BJTU logo">
-      <div class="experience-role">B.Eng. in Communication Engineering</div>
+      <div class="experience-role">B.Eng. in Electronic Engineering</div>
       <div class="experience-org">Beijing Jiaotong University</div>
       <div class="experience-time">2014 - 2018</div>
     </div>
@@ -199,8 +199,7 @@ During my current PhD study at the University of Birmingham, I focus more on hum
 
 <div class="service-card" markdown="1">
 
-✉️ <strong>Feel free to contact me for discussion and collaboration!</strong>
-
+If you are interested at my research field, please feel free to contact me. Welcome collaboration!
 </div>
 
 ### Academic Services
