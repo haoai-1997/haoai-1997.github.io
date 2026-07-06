@@ -103,7 +103,7 @@ I completed my master's degree under the supervision of [Prof. Qingmin Liao](htt
     <svg class="gh-repo-icon" viewBox="0 0 16 16" width="16" height="16"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z" fill="currentColor"></path></svg>
     <a href="https://github.com/haoai-1997/HRDFuse" target="_blank">haoai-1997 / <strong>HRDFuse</strong></a>
   </div>
-  <p class="gh-repo-desc">Hrdfuse: Monocular 360deg depth estimation by collaboratively learning holistic-with-regional depth distributions.</p>
+  <p class="gh-repo-desc">HRDFuse: Monocular 360deg depth estimation by collaboratively learning holistic-with-regional depth distributions.</p>
   <div class="gh-repo-meta">
   </div>
 </div>
@@ -130,247 +130,71 @@ I completed my master's degree under the supervision of [Prof. Qingmin Liao](htt
 <!-- Research 内容 -->
 <div id="research-tab" class="tab-content" markdown="1">
 
-My doctoral research develops robust and interpretable multi-modal learning algorithms spanning **perception**, **understanding**, **reasoning**, and **generation**. My two main doctoral research directions are:
+I previously spent two years pursuing a PhD at HKUST(GZ), where my research centered on 360 image-based scene understanding and image processing:
 
 <details class="research-direction">
-  <summary><strong>Omnidirectional Vision</strong> <span class="expand-hint">(click to expand)</span></summary>
+  <summary><strong>360 Vision</strong> <span class="expand-hint">(click to expand)</span></summary>
   <div class="research-timeline-container">
     <div class="research-timeline-item">
-      <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Both_Style_and_Distortion_Matter_Dual-Path_Unsupervised_Domain_Adaptation_for_CVPR_2023_paper.pdf"><strong>DPPASS</strong></a>
+      <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Ai_HRDFuse_Monocular_360deg_Depth_Estimation_by_Collaboratively_Learning_Holistic-With-Regional_Depth_CVPR_2023_paper.pdf"><strong>HRDFuse</strong></a>
       <span class="research-venue">CVPR 2023</span>
     </div>
     <span class="timeline-arrow">→</span>
     <div class="research-timeline-item">
-      <a href="http://openaccess.thecvf.com/content/ICCV2023/papers/Zheng_Look_at_the_Neighbor_Distortion-aware_Unsupervised_Domain_Adaptation_for_Panoramic_ICCV_2023_paper.pdf"><strong>DATR</strong></a>
+      <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Cao_OmniZoomer_Learning_to_Move_and_Zoom_in_on_Sphere_at_ICCV_2023_paper.pdf"><strong>OmniZoomer</strong></a>
       <span class="research-venue">ICCV 2023</span>
     </div>
     <span class="timeline-arrow">→</span>
     <div class="research-timeline-item">
-      <a href="http://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_Semantics_Distortion_and_Style_Matter_Towards_Source-free_UDA_for_Panoramic_CVPR_2024_paper.pdf"><strong>360SFUDA</strong></a>
+      <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Ai_Elite360D_Towards_Efficient_360_Depth_Estimation_via_Semantic-_and_Distance-Aware_CVPR_2024_paper.pdf"><strong>Elite360D</strong></a>
       <span class="research-venue">CVPR 2024</span>
     </div>
     <!-- <span class="timeline-arrow">→</span>
     <div class="research-timeline-item">
-      <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_GoodSAM_Bridging_Domain_and_Capacity_Gaps_via_Segment_Anything_Model_CVPR_2024_paper.pdf"><strong>GoodSAM</strong></a>
-      <span class="research-venue">CVPR 2024</span>
+      <a href="https://ieeexplore.ieee.org/abstract/document/10458312"><strong>Dream360</strong></a>
+      <span class="research-venue">IEEE TVCG</span>
     </div> -->
     <span class="timeline-arrow">→</span>
     <div class="research-timeline-item">
-      <a href="https://dl.acm.org/doi/abs/10.1109/TPAMI.2024.3490619"><strong>360SFUDA++</strong></a>
-      <span class="research-venue">TPAMI 2025</span>
+      <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Cao_PanDA_Towards_Panoramic_Depth_Anything_with_Unlabeled_Panoramas_and_Mobius_CVPR_2025_paper.pdf"><strong>PANDA</strong></a>
+      <span class="research-venue">CVPR 2025</span>
     </div>
     <span class="timeline-arrow">→</span>
     <div class="research-timeline-item">
-      <a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Zhong_OmniSAM_Omnidirectional_Segment_Anything_Model_for_UDA_in_Panoramic_Semantic_ICCV_2025_paper.pdf"><strong>OmniSAM</strong></a>
-      <span class="research-venue">ICCV 2025 <span class="highlight-badge">Highlight</span></span>
+      <a href="https://ieeexplore.ieee.org/abstract/document/10974579"><strong>CUBE360</strong></a>
+      <span class="research-venue">RAL 2025</span>
     </div>
     <span class="timeline-arrow">→</span>
     <div class="research-timeline-item">
-      <a href="https://arxiv.org/pdf/2506.21198"><strong>UNLOCK</strong></a>
-      <span class="research-venue">ICCV 2025</span>
+      <a href="https://link.springer.com/article/10.1007/s11263-025-02391-w"><strong>Survey of 360 vision</strong></a>
+      <span class="research-venue">IJCV 2025</span>
     </div>
     <span class="timeline-arrow">→</span>
     <div class="research-timeline-item">
-      <a href="https://dl.acm.org/doi/pdf/10.1145/3743093.3770977"><strong>Pano-R1</strong></a>
-      <span class="research-venue">ACM MM Asia 2025</span>
-    </div>
-    <span class="timeline-arrow">→</span>
-    <div class="research-timeline-item">
-      <a href="https://arxiv.org/pdf/2505.11907"><strong>OSR-Bench</strong></a>
-      <span class="research-venue">CVPR 2026</span>
+      <a href="https://proceedings.neurips.cc/paper_files/paper/2025/file/45c361d4117d598d4bb6568b407e9ac9-Paper-Conference.pdf"><strong>ST2360D</strong></a>
+      <span class="research-venue">NeurIPS 2025</span>
     </div>
   </div>
 </details>
+
+During my current PhD study at the University of Birmingham, I focus more on human-centered interactive reconstruction of the physical world.
 
 <details class="research-direction">
-  <summary><strong>Multi-modal Visual Understanding</strong> <span class="expand-hint">(click to expand)</span></summary>
+  <summary><strong>Interactive Physical World Reconstruction</strong> <span class="expand-hint">(click to expand)</span></summary>
   <div class="research-timeline-container">
     <div class="research-timeline-item">
-      <a href="http://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_ExACT_Language-guided_Conceptual_Reasoning_and_Uncertainty_Estimation_for_Event-based_Action_CVPR_2024_paper.pdf"><strong>ExACT</strong></a>
-      <span class="research-venue">CVPR 2024 <span class="highlight-badge">Highlight</span></span>
-    </div>
-    <!-- <span class="timeline-arrow">→</span>
-    <div class="research-timeline-item">
-      <a href="http://openaccess.thecvf.com/content/CVPR2024/papers/Lyu_UniBind_LLM-Augmented_Unified_and_Balanced_Representation_Space_to_Bind_Them_CVPR_2024_paper.pdf"><strong>UniBind</strong></a>
-      <span class="research-venue">CVPR 2024</span>
-    </div> -->
-    <span class="timeline-arrow">→</span>
-    <div class="research-timeline-item">
-      <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_EventDance_Unsupervised_Source-free_Cross-modal_Adaptation_for_Event-based_Object_Recognition_CVPR_2024_paper.pdf"><strong>EventDance</strong></a>
-      <span class="research-venue">CVPR 2024</span>
-    </div>
-    <!-- <span class="timeline-arrow">→</span>
-    <div class="research-timeline-item">
-      <a href="https://arxiv.org/pdf/2309.09297"><strong>EOLO</strong></a>
-      <span class="research-venue">ICRA 2024</span>
-    </div> -->
-    <span class="timeline-arrow">→</span>
-    <div class="research-timeline-item">
-      <a href="https://arxiv.org/pdf/2308.03135"><strong>EventBind</strong></a>
-      <span class="research-venue">ECCV 2024</span>
-    </div>
-    <span class="timeline-arrow">→</span>
-    <div class="research-timeline-item">
-      <a href="https://arxiv.org/pdf/2407.11344"><strong>MAGIC</strong></a>
-      <span class="research-venue">ECCV 2024</span>
-    </div>
-    <span class="timeline-arrow">→</span>
-    <div class="research-timeline-item">
-      <a href="https://arxiv.org/pdf/2407.11351"><strong>Any2Seg</strong></a>
-      <span class="research-venue">ECCV 2024 <span class="highlight-badge">Oral</span></span>
-    </div>
-    <span class="timeline-arrow">→</span>
-    <div class="research-timeline-item">
-      <a href="https://openaccess.thecvf.com/content/CVPR2025W/TMM-OpenWorld/papers/Liao_Benchmarking_Multi-modal_Semantic_Segmentation_under_Sensor_Failures_Missing_and_Noisy_CVPRW_2025_paper.pdf"><strong>MMSS-Bench</strong></a>
-      <span class="research-venue">CVPRW 2025 <span class="highlight-badge">Best Paper</span></span>
-    </div>
-    <!-- <span class="timeline-arrow">→</span>
-    <div class="research-timeline-item">
-      <a href="https://arxiv.org/pdf/2503.02581"><strong>SHIFTNet</strong></a>
-      <span class="research-venue">IROS 2025</span>
-    </div> -->
-    <span class="timeline-arrow">→</span>
-    <div class="research-timeline-item">
-      <a href="https://arxiv.org/pdf/2505.06635"><strong>MFEnR</strong></a>
-      <span class="research-venue">ICCV 2025</span>
-    </div>
-    <span class="timeline-arrow">→</span>
-    <div class="research-timeline-item">
-      <a href="https://arxiv.org/pdf/2505.12861"><strong>HPD</strong></a>
-      <span class="research-venue">CVPR 2026</span>
+      <a href="https://openreview.net/pdf?id=mvKM40zDyn"><strong>AiM</strong></a>
+      <span class="research-venue">ICLR 2026</span>
     </div>
   </div>
 </details>
-
-My recent research interest lies in:
-
-<div class="research-table">
-  <div class="research-row">
-    <div class="research-topic"><strong>Multimodal Foundation Models</strong></div>
-    <div class="research-works">
-      <div class="research-timeline-item">
-        <a href="http://openaccess.thecvf.com/content/CVPR2024/papers/Lyu_UniBind_LLM-Augmented_Unified_and_Balanced_Representation_Space_to_Bind_Them_CVPR_2024_paper.pdf"><strong>UniBind</strong></a>
-        <span class="research-venue">CVPR 2024</span>
-      </div>
-      <span class="timeline-arrow">→</span>
-      <div class="research-timeline-item">
-        <a href="https://arxiv.org/pdf/2509.18639?"><strong>UiG</strong></a>
-        <span class="research-venue">Arxiv 2025</span>
-      </div>
-    </div>
-  </div>
-  
-  <div class="research-row">
-    <div class="research-topic"><strong>Scene Understanding & Spatial Intelligence</strong></div>
-    <div class="research-works">
-      <div class="research-timeline-item">
-        <a href="https://dl.acm.org/doi/pdf/10.1145/3743093.3770977"><strong>Pano-R1</strong></a>
-        <span class="research-venue">ACM MM Asia 2025</span>
-      </div>
-      <span class="timeline-arrow">→</span>
-      <div class="research-timeline-item">
-        <a href="https://arxiv.org/pdf/2510.06218"><strong>Egonight</strong></a>
-        <span class="research-venue">ICLR 2026</span>
-      </div>
-    </div>
-  </div>
-
-  <div class="research-row">
-    <div class="research-topic"><strong>Novel / Omnidirectional Sensors</strong></div>
-    <div class="research-works">
-      <div class="research-timeline-item">
-        <a href="https://arxiv.org/pdf/2404.16501"><strong>360SFUDA++</strong></a>
-        <span class="research-venue">TPAMI 2024</span>
-      </div>
-      <span class="timeline-arrow">→</span>
-      <div class="research-timeline-item">
-        <a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Zhong_OmniSAM_Omnidirectional_Segment_Anything_Model_for_UDA_in_Panoramic_Semantic_ICCV_2025_paper.pdf"><strong>OmniSAM</strong></a>
-        <span class="research-venue">ICCV 2025</span>
-      </div>
-    </div>
-  </div>
-
-  <div class="research-row">
-    <div class="research-topic"><strong>AI Robustness & Security</strong></div>
-    <div class="research-works">
-      <div class="research-timeline-item">
-        <a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Lu_CIARD_Cyclic_Iterative_Adversarial_Robustness_Distillation_ICCV_2025_paper.pdf"><strong>CIARD</strong></a>
-        <span class="research-venue">ICCV 2025</span>
-      </div>
-      <span class="timeline-arrow">→</span>
-      <div class="research-timeline-item">
-        <a href="https://arxiv.org/pdf/2511.21574"><strong>MRPD</strong></a>
-        <span class="research-venue">AAAI 2026</span>
-      </div>
-    </div>
-  </div>
-
-  <div class="research-row">
-    <div class="research-topic"><strong>Artificial Intelligence Generated Content (AIGC)</strong></div>
-    <div class="research-works">
-      <div class="research-timeline-item">
-        <a href="https://arxiv.org/pdf/2502.00848"><strong>RealRAG</strong></a>
-        <span class="research-venue">ICML 2025</span>
-      </div>
-      <span class="timeline-arrow">→</span>
-      <div class="research-timeline-item">
-        <a href="https://github.com/Soul-AILab/SoulX-LiveAct"><strong>LiveAct</strong></a>
-        <span class="research-venue">arXiv 2026</span>
-      </div>
-    </div>
-  </div>
-  
-</div>
-
-I also survey papers in cutting-edge topics:
-
-<div class="research-table">
-  <div class="research-row">
-    <div class="research-topic"><strong>Survey Projects</strong></div>
-    <div class="research-works">
-      <div class="survey-item">
-        <a href="https://github.com/zhengxuJosh/Awesome-RAG-Vision"><strong>RAG for Computer Vision</strong></a>
-      </div>
-      <span class="timeline-arrow">•</span>
-      <div class="survey-item">
-        <a href="https://github.com/zhengxuJosh/Awesome-Multimodal-Spatial-Reasoning"><strong>Multi-modal Spatial Reasoning</strong></a>
-      </div>
-      <span class="timeline-arrow">•</span>
-      <div class="survey-item">
-        <a href="https://github.com/Chenfei-Liao/Awesome-360-Vision-Embodied-AI"><strong>360 Vision in Embodied AI</strong></a>
-      </div>
-    </div>
-  </div>
-</div>
-
-</div>
 
 <!-- Professional & Academic Services 内容 -->
 <div id="professional-tab" class="tab-content" markdown="1">
 
-### Invited Talks
-
-<div class="service-card" markdown="1">
-
-- **"Omnidirectional Vision: From Scene Understanding, Spatial Intelligence to Industrial Applications"**  
-  *SPIC Energy Science and Technology Research Institute*, Shanghai, China, August 2025
-
-- **"PANORAMA: Exploring the Industrial Potentials of Omnidirectional Vision"**  
-  *Yangtze River Delta International Talent Port*, Wuxi, China, August 2025
-
-- **"Retrieval-augmented Realistic Image Generation via Self-reflective Contrastive Learning"**  
-  *VIVO*, Shenzhen, China, August 2025. Invited by [Dr. Kanzhi Wu](https://scholar.google.com.hk/citations?user=N0WHQ2wAAAAJ&hl=zh-CN&oi=ao)
-
-</div>
-
 ### Mentorship
 
 <div class="service-card" markdown="1">
-
-**Current:** 
-[Chenfei Liao (MPhil, HKUST-GZ)](https://chenfei-liao.github.io/); [Zihao Dongfang (RA, HKUST-GZ)](https://scholar.google.com.hk/citations?hl=zh-CN&user=IvJ4_xsAAAAJ); [Ziqiao Weng (MPhil, HKUST-GZ)](https://katie312.github.io/)
-
-**Past:** [Yuanhuiyi Lyu (PhD, HKUST-GZ)](https://qc-ly.github.io/); [Lutao Jiang (PhD, HKUST-GZ)](https://lutao2021.github.io/); [Jialei Chen (PhD, Nagoya)](https://psmobile.github.io/); Mengzhen Chi (PhD, NEU); Junha Moon (MPhil, HKUST-GZ); Kaiyu Lei (MPhil, HKUST-GZ); Leyi Sheng (UG, HKUST-GZ); Ding Zhong (MS, Michigan); Yunhao Luo (PhD, Umich); Tianbo Pan (PhD, NUS); Zhenquan Zhang (MPhil, SCUT); [Boyuan Zheng (MPhil, Tongji)](https://nathandrake67.github.io/zhengby.github.io/)
 
 ✉️ <strong>Feel free to contact me for discussion and collaboration!</strong>
 
