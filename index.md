@@ -43,7 +43,7 @@ I completed my master's degree under the supervision of [Prof. Qingmin Liao](htt
       <div class="experience-time">2022 - 2024</div>
     </div>
     <div class="experience-item">
-      <img src="./assets/logo/University_of_Birmingham_Logo.png" alt="UoB logo">
+      <img src="./assets/logo/University_of_Birmingham.svg" alt="UoB logo">
       <div class="experience-role">Ph.D. in Computer Science</div>
       <div class="experience-org">University of Birmingham</div>
       <div class="experience-time">2024.09 - Present</div>
