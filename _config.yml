@@ -1,14 +1,14 @@
-url: "https://zhengxuJosh.github.io"
+url: "https://haoai-1997.github.io"
 baseurl: ""
 # Basic Information 
-title: Xu Zheng
+title: Hao Ai
 # subtitle:
 position: 
 # subposition: Chair of the Chinese Student and Scholar Association (CSSA)
 # subposition_link: https://nyu-medicine-cssa.github.io
-affiliation: Hong Kong University of Science and Technology (HKUST)
-subaffiliation: AI Thrust  
-email: zhengxu128@gmail.com
+affiliation: University of Birmingham (UoB)
+subaffiliation: The School of Computer Science
+email: aihao199712@gmail.com
 # address: 180 Madision Ave, Suite 5-31C, New York, NY 10016
 # address_link: https://goo.gl/maps/aQZfmiKjQmqbDsVY9
 
@@ -16,25 +16,23 @@ email: zhengxu128@gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Xu Zheng, HKUST, AI, Computer Vision, Machine Learning, Multimodal Learning, Semantic Segmentation, Domain Adaptation, Panoramic Vision, AIGC
-description: Xu Zheng - Ph.D. candidate in AI at HKUST. Research on multimodal learning, computer vision, and AI-generated content.
-canonical: https://zhengxuJosh.github.io
+keywords: Hao Ai, UoB, CS, Computer Vision, 3D vision, SLAM, Emobbied AI
+description: Hao Ai - Ph.D. candidate at UoB.
+canonical: https://haoai-1997.github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com.hk/citations?user=Ii1c51QAAAAJ&hl=zh-CN
-cv_link: assets/files/CV_XuZheng_0122.pdf
+google_scholar: https://scholar.google.com/citations?user=QNlF0DsAAAAJ&hl=zh-CN
+cv_link: assets/files/CV_HaoAi.pdf
 # Chinese_CV: assets/files/0824.pdf
-github_link: https://github.com/zhengxuJosh
-linkedin: https://www.linkedin.com/in/xu-zheng-3185642a6/
-instagram: https://www.instagram.com/zhengxu9128/
+github_link: https://github.com/haoai-1997
+linkedin: https://www.linkedin.com/in/hao-ai-472a33333/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/como.jpg
-# logo: ./assets/img/logo_hkust.png
-favicon: ./assets/img/logo_hkust.png
-favicon_dark: ./assets/img/logo_hkust.png
+favicon: ./assets/img/logo_uob.png
+favicon_dark: ./assets/img/logo_uob.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
