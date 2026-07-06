@@ -1,38 +1,10 @@
-- **2026.06**: Three papers accpeted to **ECCV 2026**.
-- **2026.04**: One paper accpeted to **ACL 2026**.
-- **2026.03**: Together with **Soul AI Lab @ Soul APP**, we release [SoulX-LiveAct](https://arxiv.org/pdf/2603.11746).
-- **2026.03**: One paper accepted to **TMLR** [BrightDreamer](https://arxiv.org/abs/2403.11273).
-- **2026.03**: Two papers accepted to **ICLR 2026 Workshop on Multimodal Intelligence**.
-- **2026.02**: Five papers accepted to **CVPR 2026**.
-- **2026.02**: Co-organize the [1st Cross-Domain EgoCross Challenge, CVPR 2026](https://egocross-benchmark.github.io/).
-- **2026.02**: One paper accepted to **IEEE TMM** [BiXFormer](https://arxiv.org/pdf/2506.03675?).
-- **2026.02**: Finished my academic visit to INSAIT [Linkedin Post](https://www.linkedin.com/posts/xu-zheng-3185642a6_iclr-iccv-neurips-activity-7425574366425497601-K8yi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEnD3sQBGae5cdlTD6ToV59qsKz7e_q4uk8).
-- **2026.01**: Five paper accepted to **ICLR 2026**: [DiMER](https://arxiv.org/pdf/2504.17670), [MIRAGE](https://arxiv.org/pdf/2505.18679), [EgoNight](https://arxiv.org/pdf/2510.06218), [FERD](https://arxiv.org/pdf/2509.20793), and [ExDA](https://openreview.net/pdf?id=IBzmQVia88).
-- **2026.01**: One paper accepted to **ACM ToMM**.
-- **2025.11**: Selected to the [**MBZUAI Machine Learning Winter School 2026**](https://mlws.mbzuai.ac.ae/) in Abu Dhabi.
-- **2025.11**: Two papers accepted to **AAAI 2026**.
-- **2025.10**: The first Multi-modal Spatial Reasoning survey released: [Paper](https://arxiv.org/abs/2510.25760).
-- **2025.10**: One paper accepted to **IJCV**.
-- **2025.10**: One paper accepted to **IEEE TCSVT**: [CLIP-to-Seg](https://ieeexplore.ieee.org/abstract/document/11187310).
-- **2025.09**: Two papers accepted to **NeurIPS 2025**: [Domain-RAG](https://arxiv.org/pdf/2506.05872) and [HoloV](https://arxiv.org/pdf/2510.02912).
-- **2025.06**: One paper accepted to **BMVC 2025**: [Split Matching](https://arxiv.org/pdf/2505.05023).
-- **2025.06**: Four papers (one **Highlight (2.8%)**) accepted to **ICCV 2025**: [OmniSAM (Highlight)](https://arxiv.org/pdf/2503.07098), [CIARD](https://arxiv.org/pdf/2509.12633), [UNLOCK](https://arxiv.org/pdf/2506.21198), and [Unimodal Bias](https://arxiv.org/pdf/2505.06635).
-- **2025.06**: Our paper is selected as **Best Paper** at CVPR 2025 @ TMM Open-World! [Paper](https://arxiv.org/pdf/2503.18445).
-- **2025.06**: One paper accepted to **IROS 2025**: [SHIFTNet](https://arxiv.org/pdf/2503.02581).
-- **2025.05**: Two papers accepted to **ACL 2025 Findings**: [MMUNLearner](https://arxiv.org/pdf/2502.11051) and [Mathematical Reasoning Survey](https://arxiv.org/pdf/2412.11936).
-- **2025.05**: One paper accepted to **ICML 2025**: [RealRAG](https://arxiv.org/pdf/2502.00848).
-- **2025.04**: The first RAG in CV survey released: [Paper](https://arxiv.org/pdf/2503.18016).
-- **2025.04**: Our paper accepted to CVPR 2025 @ TMM Open-World as **Oral Presentation**: [MMSS-Bench](https://arxiv.org/pdf/2503.18445).
-- **2025.02**: Visit INSAIT as a Resident Doctoral Researcher! [LinkedIn](https://www.linkedin.com/posts/insaitinstitute_insait-ai-computervision-activity-7297518558874406912-c9PO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEnD3sQBGae5cdlTD6ToV59qsKz7e_q4uk8).
-- **2025.01**: Successfully passed PhD Qualifying Examination!
-- **2024.12**: Invited as an **Area Chair** of PDLM @ **AAAI 2025**.
-- **2024.10**: One paper accepted to **IEEE TPAMI**: [360SFUDA++](https://arxiv.org/pdf/2404.16501).
-- **2024.10**: Oral presentation @ **ECCV 2024** Oral Session 5A: Segmentation [Video](https://eccv.ecva.net/virtual/2024/session/103).
-- **2024.09**: One paper accepted to **Pattern Recognition**.
-- **2024.07**: Three papers (one **Oral (1.5%)**) accepted to **ECCV 2024**.
-- **2024.03**: One paper accepted to **IEEE CAI 2024**.
-- **2024.03**: One paper accepted to **Pattern Recognition**.
-- **2024.03**: Five papers (one **Highlight (2.8%)**) accepted to **CVPR 2024**.
-- **2024.02**: Two papers accepted to **ICRA 2024**.
-- **2023.07**: Two papers accepted to **ICCV 2023**.
-- **2023.03**: One paper accepted to **CVPR 2023**.
+- **2026.01**: [AiM](https://openreview.net/pdf?id=mvKM40zDyn) (*First author*) was accepted to **ICLR 2026**.
+- **2025.12**: [ST²360D](https://caozidong.github.io/ST2360D_Depth/) was accepted to **NeurIPS 2025**.
+- **2025.06**: [PanDA](https://openaccess.thecvf.com/content/CVPR2025/papers/Cao_PanDA_Towards_Panoramic_Depth_Anything_with_Unlabeled_Panoramas_and_Mobius_CVPR_2025_paper.pdf) was accepted to **CVPR 2025**.
+- **2025.06**: [CUBE360](https://dblp.org/rec/journals/ral/ChangAZW25) was accepted to **IEEE RA-L**.
+- **2025.04**: Our survey paper, [A Survey of Representation Learning, Optimization Strategies, and Applications for Omnidirectional Vision](https://link.springer.com/article/10.1007/s11263-025-02391-w) (*First author*), was accepted to **IJCV**.
+- **2024.08**: We released [Elite360M](https://arxiv.org/abs/2408.09336) (*First author*), an efficient 360° multi-task learning framework.
+- **2024.06**: [Elite360D](https://openaccess.thecvf.com/content/CVPR2024/html/Ai_Elite360D_Towards_Efficient_360_Depth_Estimation_via_Semantic-_and_Distance-Aware_CVPR_2024_paper.html) (*First author*) was accepted to **CVPR 2024**.
+- **2024.03**: [Dream360](https://arxiv.org/abs/2401.10564) (*First author*) was accepted to **IEEE TVCG**.
+- **2023.10**: [OmniZoomer](https://arxiv.org/abs/2308.08114) was accepted to **ICCV 2023**.
+- **2023.06**: [HRDFuse](https://openaccess.thecvf.com/content/CVPR2023/html/Ai_HRDFuse_Monocular_360deg_Depth_Estimation_by_Collaboratively_Learning_Holistic-With-Regional_Depth_CVPR_2023_paper.html) (*First author*) was accepted to **CVPR 2023**.
