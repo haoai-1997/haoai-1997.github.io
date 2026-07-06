@@ -7,7 +7,6 @@ layout: homepage
   <button class="tab-button active" data-tab="about">About Me</button>
   <button class="tab-button" data-tab="research">Research</button>
   <button class="tab-button" data-tab="professional">Academic Services</button>
-  <button class="tab-button" data-tab="gallery">Gallery</button>
 </nav>
 
 <!-- About Me 内容 -->
@@ -209,14 +208,6 @@ If you are interested at my research field, please feel free to contact me. **An
 </div>
 
 </div>
-
-<!--
-<div id="gallery-tab" class="tab-content" markdown="1">
-
-{% include_relative _includes/gallery.md %}
-
-</div>
--->
 
 <!-- 标签页切换JavaScript -->
 <script>
