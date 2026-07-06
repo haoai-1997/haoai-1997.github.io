@@ -6,7 +6,7 @@ layout: homepage
 <nav class="page-tabs">
   <button class="tab-button active" data-tab="about">About Me</button>
   <button class="tab-button" data-tab="research">Research</button>
-  <button class="tab-button" data-tab="professional">Professional & Academic Services</button>
+  <button class="tab-button" data-tab="professional">Academic Services</button>
   <button class="tab-button" data-tab="gallery">Gallery</button>
 </nav>
 
@@ -194,8 +194,6 @@ During my current PhD study at the University of Birmingham, I focus more on hum
  
 <!-- Professional & Academic Services 内容 -->
 <div id="professional-tab" class="tab-content" markdown="1">
-
-### Mentorship
 
 <div class="service-card" markdown="1">
 
