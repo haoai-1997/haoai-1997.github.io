@@ -105,6 +105,7 @@ I completed my master's degree under the supervision of [Prof. Qingmin Liao](htt
   </div>
   <p class="gh-repo-desc">HRDFuse: Monocular 360deg depth estimation by collaboratively learning holistic-with-regional depth distributions.</p>
   <div class="gh-repo-meta">
+        <span class="gh-repo-lang"><span class="gh-lang-dot" style="background-color: #3572A5;"></span>Python</span>
   </div>
 </div>
 
