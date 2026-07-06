@@ -210,12 +210,12 @@ If you are interested at my research field, please feel free to contact me. **An
 
 </div>
 
-<!-- Gallery 内容 -->
-<div id="gallery-tab" class="tab-content" markdown="1">
+%<!-- Gallery 内容 -->
+%<div id="gallery-tab" class="tab-content" markdown="1">
 
-{% include_relative _includes/gallery.md %}
+%{% include_relative _includes/gallery.md %}
 
-</div>
+%</div>
 
 <!-- 标签页切换JavaScript -->
 <script>
