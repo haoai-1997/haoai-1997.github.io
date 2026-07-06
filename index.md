@@ -11,9 +11,7 @@ layout: homepage
 </nav>
 
 <!-- About Me 内容 -->
-<div id="about" class="tab-content active">
-
-## About Me
+<div id="about-tab" class="tab-content active">
 
 <div class="two-column-layout">
 <div class="left-column" markdown="1">
