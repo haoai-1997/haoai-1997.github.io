@@ -187,7 +187,9 @@ During my current PhD study at the University of Birmingham, I focus more on hum
     </div>
   </div>
 </details>
+ </div>
 
+ 
 <!-- Professional & Academic Services 内容 -->
 <div id="professional-tab" class="tab-content" markdown="1">
 
