@@ -16,7 +16,6 @@ layout: homepage
 
 I am a **Ph.D. candidate** in the School of Computer Science at the University of Birmingham, UK. I am fortunate to be advised by [Prof. Eyal Ofek @ UoB](https://eyalofek.org/), [Prof. Aleš Leonardis @ UoB](https://www.birmingham.ac.uk/staff/profiles/computer-science/academic-staff/leonardis-ales), and [Prof. Jianbo Jiao @ UoB](https://jianbojiao.com/).
 
-</div>
 I completed my master's degree under the supervision of [Prof. Qingmin Liao](https://dl.acm.org/do/10.1145/contrib-81331498323/full/). 
 
 <div class="experience-section">
@@ -187,7 +186,7 @@ During my current PhD study at the University of Birmingham, I focus more on hum
     </div>
   </div>
 </details>
- </div>
+</div>
 
  
 <!-- Professional & Academic Services 内容 -->
