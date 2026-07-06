@@ -23,9 +23,9 @@ github_link: https://github.com/haoai-1997
 linkedin: https://www.linkedin.com/in/hao-ai-472a33333/
 
 # Images
-avatar: ./assets/img/como.jpg
-favicon: ./assets/img/logo_uob.png
-favicon_dark: ./assets/img/logo_uob.png
+avatar: ./assets/Avadar.png
+favicon: ./assets/logo/University_of_Birmingham.svg
+favicon_dark: ./assets/logo/University_of_Birmingham.svg
 
 # Footnote
 enable_footnote: false
