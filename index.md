@@ -25,7 +25,7 @@ I completed my master's degree under the supervision of [Prof. Qingmin Liao](htt
   <h3>Experience</h3>
   <div class="experience-grid">
      <div class="experience-item">
-      <img src="./assets/logo/BJTU_University_Logo.png" alt="BJTU logo">
+      <img src="./assets/logo/Beijing_Jiaotong_University.png" alt="BJTU logo">
       <div class="experience-role">B.Eng. in Communication Engineering</div>
       <div class="experience-org">Beijing Jiaotong University</div>
       <div class="experience-time">2014 - 2018</div>
@@ -37,13 +37,13 @@ I completed my master's degree under the supervision of [Prof. Qingmin Liao](htt
       <div class="experience-time">2018 - 2021</div>
     </div>
     <div class="experience-item">
-      <img src="./assets/logo/HKUST_GS_Logo.png" alt="HKUSTGZ logo">
+      <img src="./assets/logo/Hong_Kong_University_of_Science_and_Technology_symbol.svg" alt="HKUSTGZ logo">
       <div class="experience-role">Ph.D. in Artificial Intelligence Trust</div>
       <div class="experience-org">HKUST(GZ)</div>
       <div class="experience-time">2022 - 2024</div>
     </div>
     <div class="experience-item">
-      <img src="./assets/logo/UoB_Logo.png" alt="UoB logo">
+      <img src="./assets/logo/University_of_Birmingham_Logo.png" alt="UoB logo">
       <div class="experience-role">Ph.D. in Computer Science</div>
       <div class="experience-org">University of Birmingham</div>
       <div class="experience-time">2024.09 - Present</div>
