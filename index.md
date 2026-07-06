@@ -10,13 +10,13 @@ layout: homepage
   <button class="tab-button" data-tab="gallery">Gallery</button>
 </nav>
 
-<!-- About Me 内容 -->
-<div id="about-tab" class="tab-content active">
+<div id="about" class="tab-content active">
 
-<div class="two-column-layout">
-<div class="left-column" markdown="1">
+## About Me
 
-👋 I am a **Ph.D. candidate** in the School of Computer Science at University of Birmingham, GB. I am fortunate to be advised by [Prof. Eyal Ofek @ UoB](https://eyalofek.org/), [Prof. Aleš Leonardis @ UoB](https://www.birmingham.ac.uk/staff/profiles/computer-science/academic-staff/leonardis-ales) and [Prof. Jianbo Jiao @ UoB](https://jianbojiao.com/). Before that, I have also been collaborating with [Prof. Addison Lin Wang @ NTD](https://scholar.google.com/citations?hl=en&user=SReb2csAAAAJ&view_op=list_works&sortby=pubdate) for two years. 
+I am a **Ph.D. candidate** in the School of Computer Science at the University of Birmingham, UK. I am fortunate to be advised by [Prof. Eyal Ofek @ UoB](https://eyalofek.org/), [Prof. Aleš Leonardis @ UoB](https://www.birmingham.ac.uk/staff/profiles/computer-science/academic-staff/leonardis-ales), and [Prof. Jianbo Jiao @ UoB](https://jianbojiao.com/).
+
+</div>
 I completed my master's degree under the supervision of [Prof. Qingmin Liao](https://dl.acm.org/do/10.1145/contrib-81331498323/full/). 
 
 <div class="experience-section">
