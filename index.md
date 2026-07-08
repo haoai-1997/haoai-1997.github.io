@@ -50,6 +50,31 @@ I completed my master's degree under the supervision of [Prof. Qingmin Liao](htt
   </div>
 </div>
 
+<div class="industry-section">
+  
+  <h3>Industry</h3>
+  <div class="experience-grid">
+     <div class="experience-item">
+      <img src="./assets/logo/pingan.jpg" alt="PINGAN logo">
+      <div class="experience-role">Research Intern</div>
+      <div class="experience-org">PING AN Technology</div>
+      <div class="experience-time">2020.03 - 2021.01</div>
+    </div>
+    <div class="experience-item">
+      <img src="./assets/logo/huawei.png" alt="HUAWEI logo">
+      <div class="experience-role">Software Engineer</div>
+      <div class="experience-org">Huawei Technology</div>
+      <div class="experience-time">2021.07 - 2022.03</div>
+    </div>
+    <div class="experience-item">
+      <img src="./assets/logo/tencent.png" alt="Tencent logo">
+      <div class="experience-role">Research Intern</div>
+      <div class="experience-org">Tencent</div>
+      <div class="experience-time">2022.05 - 2023.02</div>
+    </div>
+  </div>
+</div>
+
 <div class="scholar-banner">
   <a href="https://scholar.google.com/citations?user=QNlF0DsAAAAJ&hl=en" target="_blank">
     <i class="ai ai-google-scholar" style="font-size:1.2em; color:#4285F4;"></i>
