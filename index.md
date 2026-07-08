@@ -50,7 +50,7 @@ I completed my master's degree under the supervision of [Prof. Qingmin Liao](htt
   </div>
 </div>
 
-<div class="industry-section">
+<div class="experience-section">
   
   <h3>Industry</h3>
   <div class="experience-grid">
